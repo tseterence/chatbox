@@ -1,0 +1,9 @@
+@charset "utf-8";
+@import "./chat-overrides";
+@import "@chatscope/chat-ui-kit-styles/themes/default/main";
+
+#root {
+    max-width: 1280px;
+    height: 100%;
+    margin: 0 auto;
+}
